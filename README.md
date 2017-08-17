@@ -1,6 +1,6 @@
 homework for course EMNLP
 ====================================
 
-using structured perceptron and viterbi algorithm to solve the NER problem.
+using structured perceptron and viterbi algorithm to solve Chinese NER problem.
 
-F1-85%
+macro-F1-85%
